@@ -1,0 +1,42 @@
+{
+    "S": [
+        " 'The Legend of Zelda: Breath of the Wild',",
+        "        'The Witcher 3: Wild Hunt',",
+        "        'Red Dead Redemption 2',",
+        "        'Persona 5 Royal',",
+        "        'Bloodborne',",
+        "        'Final Fantasy VII Remake'"
+    ],
+    "A": [
+        "     'Dark Souls III',",
+        "        'God of War (2018)'r",
+        "        'NieR: Automata',",
+        "        'The Elder Scrolls V: Skyrim',",
+        "        'Horizon Zero Dawn',",
+        "        'Monster Hunter: World'"
+    ],
+    "B": [
+        "  'Assassin's Creed Odyssey',",
+        "        'Borderlands 3',",
+        "        'Stardew Valley',",
+        "        'Celeste',",
+        "        'Sekiro: Shadows Die Twice',",
+        "        'Hollow Knight'"
+    ],
+    "C": [
+        "      'No Man's Sky',",
+        "        'Fallout 76',",
+        "        'Anthem',",
+        "        'Metal Gear Survive',",
+        "        'Dead Island',",
+        "        'Destiny 2'"
+    ],
+    "D": [
+        "     'Mass Effect: Andromeda',",
+        "        'Mighty No. 9',",
+        "        'Ride to Hell: Retribution',",
+        "        'E.T. the Extra-Terrestrial (Atari 2600)',",
+        "        'Big Rigs: Over the Road Racing',",
+        "        'Drake of the 99 Dragons'"
+    ]
+}
